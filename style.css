@@ -1,0 +1,82 @@
+/*I made border so that I could see my boxes and margins*/
+* {
+    border: 1px solid red;
+  }
+  
+  /* --- Here I added some color to the home page and different font for the heading--- */
+  
+  html {
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    background: linear-gradient(180deg, #f5be84, #fff989, #ffcfaf, #ffffff);
+  }
+  body { margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+  }
+  
+  h1 {
+    filter: drop-shadow(x) 2px (y)2px blur(1px) color (#f6a9ef); 
+    
+    text-align: center;
+  }
+  h2 {
+    margin: 4rem auto 1rem auto;
+    text-align: center;
+  }
+  
+  li {font-size: 20px;
+  }
+
+  ol {
+    padding: 20px;
+  }
+  
+  ol li {
+    padding: 10px 0;
+}
+img { height:275px;
+    width: 598px;
+
+   
+}
+/* Here is my nav bar class, I want to make wanted to make the text bigger and centered on the site*/
+    .nav-bar ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+    
+    .nav-bar li {
+        display: inline-block;
+        margin-right: 46px;
+    }
+    
+    .nav-bar li a {
+        text-decoration: none;
+        color: #333;
+        padding: 5px 10px;
+    }
+    
+    .nav-bar li a:hover {
+        background-color: #ffffff;
+    
+}
+/*I added a footer to the site for copy rights as every site should have and made it center*/
+footer {
+ 
+  margin-inline: 200px;
+}
+  
+ th, td{
+    text-align: center; 
+    vertical-align: middle; 
+    padding: 9px; 
+    border: 1px solid #ddd; 
+    
+
+ }
+ 
+  
+ 
+    

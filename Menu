@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Menu</h1>
+
+    <img height="200px" src="https://media.istockphoto.com/id/899907172/photo/baked-tasty-margerita-pizza-near-oven.jpg?s=1024x1024&w=is&k=20&c=pX96yzEbGxsyTF5W3YfaKLlQSsC9n3RvqQFggJsQIhY=" alt="Fresh pizza coming out of oven"> <br>
+    
+    <div>
+        <a href="index.html">Home</a><br>
+        <a href="Menu">Menu</a><br>
+        <a href="https://maps.google.com">Locations</a><br>
+        <a href="Order Online">Order Online</a><br>
+    </div> 
+    
+
+</body>
+</html>
